@@ -6,7 +6,7 @@
 
 - 🔭 **Latest projects:**
   - Deep Learning model for embryo image classification & IVF success prediction → [Live demo](https://ivf-predictor-demo.streamlit.app/)
-  - AI-powered personalized children's storybooks → [little-legends.co/us](https://app.little-legends.co/us)
+  - AI-powered personalized children's storybooks → [Storytellrs](https://storytellrs.ai)
 - 🌱 Currently deepening my skills in **Data Science, Deep Learning & Generative AI**
 - 👯 Open to collaborating on **impactful, product-driven projects**
 - 📫 Reach me at **max@mxmk.fr**
